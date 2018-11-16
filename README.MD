@@ -13,3 +13,6 @@ Ethereum and EOS use the same ECC (cryptography) but are formatted differently. 
 `keyswitch` will prompt you for your Ethereum Private Key. No need to hardcode it in the code and accidentally forget about it later.
 
 Confirm that the Ethereum address generated from the CLI is the same as what you have on your records. An EOS private/public key pair will be generated from this.
+
+# Screenshot
+![Screen Shot](https://raw.githubusercontent.com/ajose01/keyswitch/af06cc9094244032bcb2e2bfcdc716a069802e63/keyswitch.png)
